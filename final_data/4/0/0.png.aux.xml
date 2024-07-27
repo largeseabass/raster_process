@@ -4,4 +4,13 @@
   <Metadata>
     <MDI key="AREA_OR_POINT">Area</MDI>
   </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">100.33613445378</MDI>
+      <MDI key="STATISTICS_MINIMUM">17</MDI>
+      <MDI key="STATISTICS_STDDEV">79.62309083087</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">46.48</MDI>
+    </Metadata>
+  </PAMRasterBand>
 </PAMDataset>

@@ -1,0 +1,9 @@
+nv 0 0 0 0  # Transparent for NaN values
+0 0 0 255  # Blue
+25 0 255 255  # Cyan
+50 0 255 0  # Green
+75 255 255 0  # Yellow
+100 255 0 0  # Red
+150 153 50 204  # Purple
+200 255 255 255  # White
+
